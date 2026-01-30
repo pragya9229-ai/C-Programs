@@ -58,17 +58,17 @@
 // }
 
 // DOB,NAME,PhoneNO
-// #include<stdio.h>
-// int main(){
-//     char name[40];
-//     printf("enter your name: \n");
-//     scanf("%s",&name);
-//     char month[20];
-//     printf("enter the month: \n");
-//     scanf("s",&month);
-//     int date,year;
-//     printf("Enter the date: \n");
-//     scanf("%d",&date);
-//     printf("enter the year: \n");
-//     scanf("%d",&year)
+#include<stdio.h>
+int main(){
+    char name[40];
+    printf("enter your name: \n");
+    scanf("%s",&name);
+    char month[20];
+    printf("enter the month: \n");
+    scanf("s",&month);
+    int date,year;
+    printf("Enter the date: \n");
+    scanf("%d",&date);
+    printf("enter the year: \n");
+    scanf("%d",&year)
 }
